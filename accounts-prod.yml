@@ -5,5 +5,5 @@ accounts:
   message: "Welcome to Accounts Microservice PROD APIs"
   contactDetails:
     name: "Sandeep Podduturi"
-    email: "sandeep@gmail.com"
+    email: "{cipher}2eea1cc3e8a3d272a60a1cb0a571dd29e243a8ddfaff15a4517aa81b7ecafc76e1ecd3968714554aa51e8a5f992b04af"
     phone: "1234567890"
