@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Accounts Microservice APIs"
+  contactDetails:
+    name: "Sandeep Podduturi"
+    email: "sandeep@gmail.com"
+    phone: "1234567890"
+
