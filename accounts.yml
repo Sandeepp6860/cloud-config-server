@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Accounts Microservice default APIs"
+  message: "Welcome to Accounts Microservice default Docker APIs"
   contactDetails:
     name: "Sandeep Podduturi"
     email: "sandeep@gmail.com"
