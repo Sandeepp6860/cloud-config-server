@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Loans Microservice PROD APIs"
+  message: "Welcome to Loans Microservice Production docker compose APIs"
   contactDetails:
     name: "Sandeep Podduturi"
     email: "sandeep@gmail.com"
