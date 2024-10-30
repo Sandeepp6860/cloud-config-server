@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to Cards Microservice default  APIs"
+  message: "Welcome to Cards Microservice default docker compose APIs"
   contactDetails:
     name: "Sandeep Podduturi"
     email: "sandeep@gmail.com"
